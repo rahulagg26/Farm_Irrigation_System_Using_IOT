@@ -9,4 +9,4 @@ The programme to display the value of the sensors, which is mentioned in display
 
 3. **subscriber-raspPi.py**: This file is also present on our Raspberry Pi where we are acting as a subscriber to receive the predicted value of water percentage from the publisher with the help of an ML model.
 
-### Eventually, to display the predicted water percentage in LCD, which is calculated via the ML Model, we have designed the code file **main.py** with the required configuration.
+### Eventually, to display the predicted water percentage in LCD, which is calculated via the ML Model, we have designed the code file ##### ***main.py*** with the required configuration.
