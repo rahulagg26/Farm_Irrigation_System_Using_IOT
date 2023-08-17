@@ -1,5 +1,5 @@
 # Farm_Irrigation_System_Using_IOT
-The programme to display the value of the sensors, which is mentioned in display.py file
+The programme to display the value of the sensors, which is mentioned in ***display.py*** file
 
 ### As per our implementation, we have created three python files to establish the required communication between the system and the **Raspberry Pi**. The use of three different python files.
 
